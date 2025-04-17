@@ -266,7 +266,7 @@ body.border-dark .main-content:after{
 	font-size:78px;
 }
 .intro-text > p{
-	font-size:18px;
+	font-size:30px;
 	color:#FFF;
 	color:rgba(255,255,255,.8);
 	margin-top:15px;
@@ -291,7 +291,7 @@ a.btn-custom{
 	text-transform:uppercase;
 	text-decoration:none;
 	text-align:center;
-	font-size:11px;
+	font-size:15px;
 	font-weight:400;
 	display:inline-block;
 	*display:inline;
@@ -529,7 +529,7 @@ body.section-switching.up .animation-block{
 	margin-bottom:80px;
 }
 .about-text > p{
-	font-size:14px;
+	font-size:15px;
 	color:rgb(0, 0, 0);
 	line-height:1.8em;
 }
@@ -557,6 +557,7 @@ body.section-switching.up .animation-block{
 	text-transform:uppercase;
 }
 .info-list > li > span{
+	font-size: 15px;
 	color:rgba(0,0,0,.4);
 }
 .services-block .section-header{
